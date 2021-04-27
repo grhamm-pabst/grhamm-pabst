@@ -1,16 +1,41 @@
-### Hi there 👋
+## Hi there, I'm Grhamm Pabst 👋
 
-<!--
-**grhamm-pabst/grhamm-pabst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a back-end developer graduating in Software Engineering, passionate about learning new stuff about programming everyday.
+<br/>
+<br/>
 
-Here are some ideas to get you started:
+### Currently learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div text-align="justify">
+  <img height="auto" width="40" src="https://secure.meetupstatic.com/photos/event/c/a/2/d/600_452871757.jpeg" />
+  <img height="auto" width="40" src="https://img.icons8.com/color/452/mongodb.png" />
+  <img height="auto" width="40" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />
+</div>
+<br/>
+
+### Currently working with:
+<div text-align="justify">
+  <img height="auto" width="40" src="https://docs.microsoft.com/pt-br/windows/images/csharp-logo.png" />
+  <img height="auto" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />
+  <img height="auto" width="40" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b" />
+  <img height="auto" width="40" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" />
+</div>
+<br/>
+<br/>
+
+I'm looking to collaborate on open source elixir, python and rust projects. 🤝
+
+Help me with functional programming. 🤔
+
+Ask me about python. <img height="auto" width="20" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" />
+
+### Reach me:
+<div text-align="justify">
+  <a href="https://www.linkedin.com/in/grhamm-pabst-7164251b3/">
+    <img height="auto" width="40" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+  </a>
+  <div text-align="justify">
+    <img height="auto" width="40" src="https://image.flaticon.com/icons/png/512/281/281769.png" />
+  </div>
+  <p>Email: tsbapmmahrg@gmail.com</p>
+</div>
