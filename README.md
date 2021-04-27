@@ -34,8 +34,6 @@ Ask me about python. <img height="auto" width="20" src="https://cdn.icon-icons.c
   <a href="https://www.linkedin.com/in/grhamm-pabst-7164251b3/">
     <img height="auto" width="40" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
   </a>
-  <div text-align="justify">
-    <img height="auto" width="40" src="https://image.flaticon.com/icons/png/512/281/281769.png" />
-  </div>
+  <img height="auto" width="40" src="https://image.flaticon.com/icons/png/512/281/281769.png" />
   <p>Email: tsbapmmahrg@gmail.com</p>
 </div>
