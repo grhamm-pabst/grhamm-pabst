@@ -27,6 +27,10 @@ Help me with functional programming. 🤔
 
 Ask me about python. <img height="auto" width="20" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grhamm-pabst)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grhamm-pabst&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Reach me:
 <div text-align="justify">
   <a href="https://www.linkedin.com/in/grhamm-pabst-7164251b3/">
