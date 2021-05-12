@@ -12,15 +12,6 @@ I'm a back-end developer graduating in Software Engineering, passionate about le
   <img height="auto" width="35" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />
 </div>
 
-### Currently working with:
-<div text-align="justify">
-  <img height="auto" width="35" src="https://docs.microsoft.com/pt-br/windows/images/csharp-logo.png" />
-  <img height="auto" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />
-  <img height="auto" width="35" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b" />
-  <img height="auto" width="35" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" />
-</div>
-<br/>
-
 I'm looking to collaborate on open source elixir, python and rust projects. 🤝
 
 Help me with functional programming. 🤔
