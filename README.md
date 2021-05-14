@@ -6,17 +6,14 @@ I'm a back-end developer graduating in Software Engineering, passionate about le
 
 ### Currently learning:
 
-<div text-align="justify">
-  <img height="35" width="auto" src="https://elixir.sydney/static/logo-3108f26a34f09dc059ba642141c7e67b.svg" />
-  <img height="auto" width="35" src="https://img.icons8.com/color/452/mongodb.png" />
-  <img height="auto" width="35" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />
-</div>
+🐙 Elixir <br/>
+🦀 Rust   <br/>
+🐋 Docker <br/>
 
-I'm looking to collaborate on open source elixir, python and rust projects. 🤝
+### Interests:
 
-Help me with functional programming. 🤔
-
-Ask me about python. <img height="auto" width="20" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" />
+Functional programming and distributed systems. 
+Open source elixir and rust projects.
 
 ### Reach me:
 <div text-align="justify">
