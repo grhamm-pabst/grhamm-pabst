@@ -13,7 +13,7 @@ I'm a back-end developer graduating in Software Engineering, passionate about le
 ### Interests:
 
 Functional programming and distributed systems. <br/>
-Open source elixir and rust projects.
+Open source elixir and rust projects. <br/>
 
 ### Reach me:
 <div text-align="justify">
